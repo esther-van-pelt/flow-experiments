@@ -1,0 +1,1 @@
+('sine2d3_fm_h27x2_it15000_s0', {'tv': 0.592, 'kl_pq': 1.1595, 'q_mass_in_box': 0.9983, 'cond_modes_total': 12, 'cond_modes_found': 6, 'train_time': 7.8399, 'skipped': 0, 'orth_err': 0.0, 'n_params': 1136})

@@ -1,0 +1,9 @@
+sine2d:3 dm 27 done
+sine2d:3 dm 128 done
+sine2d:3 fm 27 done
+sine2d:3 fm 128 done
+grid16 dm 27 done
+grid16 dm 128 done
+grid16 fm 27 done
+grid16 fm 128 done
+wrote c_sampling_cost.png

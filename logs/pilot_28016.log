@@ -1,0 +1,3 @@
+('sine2d2_L32_M2_relaxed_mle_s0', {'tv': 0.0608, 'kl_pq': 0.0168, 'q_mass_in_box': 0.9997, 'cond_modes_total': 8, 'cond_modes_found': 8, 'train_time': 263.0228, 'skipped': 0, 'orth_err': 0.0})
+rth_err': 0.0})
+

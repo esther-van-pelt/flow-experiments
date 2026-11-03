@@ -1,0 +1,1 @@
+('sine2d3_dm_h128x3_it150000_s0', {'tv': 0.0545, 'kl_pq': inf, 'q_mass_in_box': 1.0009, 'cond_modes_total': 12, 'cond_modes_found': 12, 'train_time': 166.2735, 'skipped': 0, 'orth_err': 0.0, 'n_params': 34818})
